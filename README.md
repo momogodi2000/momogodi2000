@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @momogodiyvan
-- 👀 I’m backend développer from IAI Cameroon. I am building mobile and web apps capable of working remote and relocation
-Recently graduated my DTS.
+- 👀 I’m backend développer from IAI Cameroon. I am building mobile and web apps capable of working remote and relocation  -   
+ -Recently graduated my DTS.
 
 - 🌱 I’m currently Am currently working on web and mobile development in lavarel, react,android studio
 - 📫 contact me by email ay yvangodimomo@gmail.com
