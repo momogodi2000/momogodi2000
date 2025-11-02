@@ -1,7 +1,10 @@
 - 👋 Hi, I’m momogodiyvan
-- 👀 I’m a Full Stack développer. I am building mobile and web apps capable of working remote and relocated  -   
+-Software Engineer focused on building robust back-end systems and intuitive front-end interfaces.
+Tech Stack: JavaScript, React, Node.js, Python, PostgreSQL, Docker.
 
-- 🌱 I’m currently working on web and mobile program with react, flutter, laravel, django.
+-A young Cameroonian developer passionate about leveraging technology to solve real-world problems across Africa and beyond.
+Committed to lifelong learning and maintaining a happy, collaborative mindset in every project. 🚀
+
 - 📫 contact me by email ay yvangodimomo@gmail.com or my whatsapp (+237) 6-95-92-20-65
 - 💼 Looking for new opportunities
 
